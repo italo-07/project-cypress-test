@@ -11,5 +11,8 @@
     "web"
   ],
   "author": "Italo Santos",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.0.0"
+  }
 }
