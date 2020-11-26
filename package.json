@@ -1,0 +1,15 @@
+{
+  "name": "project-cypress",
+  "version": "1.0.0",
+  "description": "test meu tudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "web"
+  ],
+  "author": "Italo Santos",
+  "license": "ISC"
+}
