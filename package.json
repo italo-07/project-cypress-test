@@ -12,7 +12,9 @@
   ],
   "author": "Italo Santos",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^6.0.0"
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^6.1.0",
+    "cypress-xpath": "^1.6.1"
   }
 }
