@@ -1,0 +1,105 @@
+{
+  "uid" : "75430b209dd7b495",
+  "name" : "matches call arguments using Sinon matchers",
+  "fullName" : "matches call arguments using Sinon matchers",
+  "historyId" : "74dff439b5107878bb080ebdf4f2bcbf",
+  "time" : {
+    "start" : 1608066189143,
+    "stop" : 1608066189195,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "get (\"@add\")",
+      "time" : {
+        "start" : 1608066189181,
+        "stop" : 1608066189189,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "expected add to have been called with arguments {test: function(){}, message: typeOf(\"number\")}, {test: function(){}, message: match(3)} assert",
+      "time" : {
+        "start" : 1608066189189,
+        "stop" : 1608066189189,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "get (\"@add\")",
+      "time" : {
+        "start" : 1608066189189,
+        "stop" : 1608066189194,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    }, {
+      "name" : "expected add to have been called with arguments {test: function(){}, message: typeOf(\"number\")}, {test: function(){}, message: match(3)} assert",
+      "time" : {
+        "start" : 1608066189194,
+        "stop" : 1608066189194,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75430b209dd7b495.json",
+  "parameterValues" : [ ]
+}

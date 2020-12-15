@@ -13,7 +13,7 @@ describe('Login test cases', function() {
 
         cy.xpath('//input[@placeholder="Digite uma senha"]').type('123258');
 
-        cy.get('#onesignal-slidedown-allow-button').click();
+        cy.xpath('//button[@id="onesignal-slidedown-cancel-button"]').click();
 
         cy.contains(' seu crédito disponível é de');
     });
@@ -79,9 +79,9 @@ describe('Login test cases', function() {
 
         cy.xpath('//input[@placeholder="XXX.XXX.XXX-XX"]').clear();
 
-        cy.xpath('//input[@placeholder="XXX.XXX.XXX-XX"]').type('12452602433');
+        cy.xpath('//input[@placeholder="XXX.XXX.XXX-XX"]').type('12452807433');
 
-        cy.xpath('//input[@placeholder="Digite uma senha"]').type('123252');
+        cy.xpath('//input[@placeholder="Digite uma senha"]').type('143252');
         
         cy.contains('Erro ao entrar');
 
@@ -169,8 +169,6 @@ describe('Login test cases', function() {
 
     });
 
-    /// Continuee....
-
     it('Login - Forgot Password - Invalid Code', function () { 
 
         cy.viewport(320, 568);
@@ -204,16 +202,64 @@ describe('Login test cases', function() {
         cy.xpath('//*[@id="wrapper"]/div/div/div[2]/div/div[1]/div/div/div[5]').type('1');
 
         cy.xpath('//*[@id="wrapper"]/div/div/div[2]/div/div[1]/div/div/div[6]').type('1');
-
-        ////
         
         cy.contains('Código inválido');
 
         cy.contains('Verifique se o código digitado coresponde ao recebido.');
 
-        cy.get('//*[@id="root"]/div[3]/div/div[3]/div/div/div/button/div/span').contains('Entendi').click();
+        cy.xpath('//*[@id="root"]/div[3]/div/div[3]/div/div/div/button').contains('Entendi').click();
 
         
+
+    });
+
+    it('Login - Without User', function () {
+        cy.viewport(320, 568);
+        cy.visit('https://web.homolog.meutudo.app/intro');
+        cy.contains('Bem vindo');
+
+        cy.get('button').contains('Entrar').click();
+
+        cy.contains('Empréstimo');
+
+        cy.xpath('//input[@placeholder="XXX.XXX.XXX-XX"]').type('12452602434');
+
+        cy.xpath('//input[@placeholder="Digite uma senha"]').type('11');
+
+        cy.xpath('//input[@placeholder="XXX.XXX.XXX-XX"]').clear();
+
+        cy.xpath('//input[@placeholder="Digite uma senha"]').clear();
+
+        cy.xpath('//input[@placeholder="Digite uma senha"]').type('123258');
+
+        cy.get('.error_text___2eKkj').contains('Esse campo é obrigatório');
+
+    });
+
+    it.only('Login - Logout', function () {
+        cy.viewport(320, 568);
+        cy.visit('https://web.homolog.meutudo.app/intro');
+        cy.contains('Bem vindo');
+
+        cy.get('button').contains('Entrar').click();
+
+        cy.contains('Empréstimo');
+
+        cy.xpath('//input[@placeholder="XXX.XXX.XXX-XX"]').type('12452602434');
+
+        cy.xpath('//input[@placeholder="Digite uma senha"]').type('123258');
+
+        cy.get('#onesignal-slidedown-cancel-button').click();
+
+        cy.contains(' seu crédito disponível é de');
+
+        cy.xpath('//*[@id="root"]/div/div[2]/div/div[2]/div[4]').click();
+
+        cy.xpath('//*[@id="wrapper"]/div/div/div[2]/div/div[4]/div/div/div/button').contains('Sair').click();
+
+        cy.contains('Bem vindo');
+
+        cy.contains('Entrar');
 
     });
 

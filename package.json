@@ -4,6 +4,10 @@
   "description": "test meu tudo",
   "main": "index.js",
   "scripts": {
+    "cy:run": "cypress run --config video=false --env allure=true",
+    "allure:generate": "allure generate allure-results",
+    "allure:open": "allure open allure-report",
+    "allure:clear": "rm -r allure-results/ allure-report || true",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,6 +18,7 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^1.8.5",
     "cypress": "^6.1.0",
     "cypress-xpath": "^1.6.1"
   }

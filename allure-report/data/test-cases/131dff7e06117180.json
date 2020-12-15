@@ -1,0 +1,60 @@
+{
+  "uid" : "131dff7e06117180",
+  "name" : ".isHidden() - determine if a DOM element is hidden",
+  "fullName" : ".isHidden() - determine if a DOM element is hidden",
+  "historyId" : "0596f0a2567a6d1a6d4a20f55333c100",
+  "time" : {
+    "start" : 1608066115291,
+    "stop" : 1608066115545,
+    "duration" : 254
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "time" : { },
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "visit (\"https://example.cypress.io/cypress-api\")",
+      "time" : {
+        "start" : 1608066115321,
+        "stop" : 1608066115534,
+        "duration" : 213
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Cypress.dom"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "131dff7e06117180.json",
+  "parameterValues" : [ ]
+}

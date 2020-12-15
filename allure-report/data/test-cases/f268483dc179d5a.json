@@ -1,0 +1,35 @@
+{
+  "uid" : "f268483dc179d5a",
+  "name" : "False é False",
+  "fullName" : "False é False",
+  "historyId" : "1ee51f63944b5bb3be3897f085d20eb5",
+  "time" : {
+    "start" : 1608065986451,
+    "stop" : 1608065986469,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Hello World"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f268483dc179d5a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,1 @@
+{"uuid":"db572277-9484-4056-9a35-a371b544f5a8","historyId":"0d5141cc9f301562c3e87bd40a914de1","status":"passed","statusDetails":{},"stage":"finished","steps":[],"attachments":[],"parameters":[],"labels":[{"name":"suite","value":"Cypress.env()"}],"links":[],"start":1608066115555,"name":"Get environment variables","fullName":"Get environment variables","stop":1608066115909}
