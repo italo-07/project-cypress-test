@@ -1,0 +1,1241 @@
+[ {
+  "uid" : "10b928771fea94f2",
+  "name" : ".siblings() - get all sibling DOM elements",
+  "time" : {
+    "start" : 1608066199221,
+    "stop" : 1608066199459,
+    "duration" : 238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad3ca1dfafdd60ed",
+  "name" : "cy.tick() - move time in the browser",
+  "time" : {
+    "start" : 1608066188670,
+    "stop" : 1608066189079,
+    "duration" : 409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d072e75361f876d2",
+  "name" : ".click() - click on a DOM element",
+  "time" : {
+    "start" : 1608066063022,
+    "stop" : 1608066065999,
+    "duration" : 2977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf50be4cfe4a0ea9",
+  "name" : "cy.title() - get the title",
+  "time" : {
+    "start" : 1608066238126,
+    "stop" : 1608066238559,
+    "duration" : 433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ded90694e2b2190",
+  "name" : "True é True",
+  "time" : {
+    "start" : 1608065985855,
+    "stop" : 1608065985900,
+    "duration" : 45
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b52203ca5f264408",
+  "name" : "cy.spy() - wrap a method in a spy",
+  "time" : {
+    "start" : 1608066184431,
+    "stop" : 1608066185300,
+    "duration" : 869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3278f7d75c3a3628",
+  "name" : "cy.document() - get the document object",
+  "time" : {
+    "start" : 1608066237730,
+    "stop" : 1608066238115,
+    "duration" : 385
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "74dd9815e5515c38",
+  "name" : ".check() - check a checkbox or radio element",
+  "time" : {
+    "start" : 1608066066964,
+    "stop" : 1608066068167,
+    "duration" : 1203
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b19131a174ceb3",
+  "name" : "assert - assert shape of an object",
+  "time" : {
+    "start" : 1608066090289,
+    "stop" : 1608066090576,
+    "duration" : 287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a0a6383bd902772",
+  "name" : ".filter() - get DOM elements that match the selector",
+  "time" : {
+    "start" : 1608066195479,
+    "stop" : 1608066195745,
+    "duration" : 266
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "407da0fc269d92a8",
+  "name" : "cy.location() - get window.location",
+  "time" : {
+    "start" : 1608066135964,
+    "stop" : 1608066136356,
+    "duration" : 392
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "264bfc9a9f43600e",
+  "name" : ".prev() - get previous sibling DOM element",
+  "time" : {
+    "start" : 1608066198443,
+    "stop" : 1608066198689,
+    "duration" : 246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "482f5f83a537bd03",
+  "name" : "finds element by class name regex",
+  "time" : {
+    "start" : 1608066089484,
+    "stop" : 1608066089740,
+    "duration" : 256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9046facf7c7f762d",
+  "name" : "Get environment variables",
+  "time" : {
+    "start" : 1608066115555,
+    "stop" : 1608066115909,
+    "duration" : 354
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b681b83d223c8586",
+  "name" : ".next() - get next sibling DOM element",
+  "time" : {
+    "start" : 1608066196523,
+    "stop" : 1608066196780,
+    "duration" : 257
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "712485f2717d22e8",
+  "name" : "cy.request() with query parameters",
+  "time" : {
+    "start" : 1608066164431,
+    "stop" : 1608066166256,
+    "duration" : 1825
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "897b97f3d8248143",
+  "name" : "cy.url() - get the current URL",
+  "time" : {
+    "start" : 1608066136362,
+    "stop" : 1608066136542,
+    "duration" : 180
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "87dee02fbc8464e5",
+  "name" : "cy.clock() - control time in the browser",
+  "time" : {
+    "start" : 1608066188301,
+    "stop" : 1608066188664,
+    "duration" : 363
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "48b6727636be25d1",
+  "name" : ".nextAll() - get all next sibling DOM elements",
+  "time" : {
+    "start" : 1608066196796,
+    "stop" : 1608066197136,
+    "duration" : 340
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7ade003bc68c4c0",
+  "name" : "Criar conta Telefone já Registrado",
+  "time" : {
+    "start" : 1608066020920,
+    "stop" : 1608066026864,
+    "duration" : 5944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e78c473b2ac3023e",
+  "name" : "Get and set configuration options",
+  "time" : {
+    "start" : 1608066114990,
+    "stop" : 1608066115282,
+    "duration" : 292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b17e19dcf59eb38f",
+  "name" : ".parentsUntil() - get parent DOM elements from DOM elements until el",
+  "time" : {
+    "start" : 1608066198224,
+    "stop" : 1608066198432,
+    "duration" : 208
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76fae212c589d0be",
+  "name" : "Get CPU architecture name of underlying OS",
+  "time" : {
+    "start" : 1608066114481,
+    "stop" : 1608066114977,
+    "duration" : 496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d0326e6150a1da69",
+  "name" : ".nextUntil() - get next sibling DOM elements until next el",
+  "time" : {
+    "start" : 1608066197148,
+    "stop" : 1608066197407,
+    "duration" : 259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5067a6cfea66d14",
+  "name" : "Home deve estar acessível",
+  "time" : {
+    "start" : 1608065992949,
+    "stop" : 1608065996773,
+    "duration" : 3824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19375b6c836fe3ab",
+  "name" : "cy.window() - get the global window object",
+  "time" : {
+    "start" : 1608066236731,
+    "stop" : 1608066237711,
+    "duration" : 980
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "574becff5155da4f",
+  "name" : "Cypress.Screenshot.defaults() - change default config of screenshots",
+  "time" : {
+    "start" : 1608066147320,
+    "stop" : 1608066147710,
+    "duration" : 390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97a60c96f26621eb",
+  "name" : "cy.exec() - execute a system command",
+  "time" : {
+    "start" : 1608066141951,
+    "stop" : 1608066143438,
+    "duration" : 1487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f243d768e1bddcb9",
+  "name" : "Form Quero ser avisado - Não",
+  "time" : {
+    "start" : 1608066012518,
+    "stop" : 1608066015665,
+    "duration" : 3147
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5caac0af6c89cf50",
+  "name" : "cy.wait() - wait for a specific amount of time",
+  "time" : {
+    "start" : 1608066222702,
+    "stop" : 1608066228587,
+    "duration" : 5885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8b2c47f0c510341",
+  "name" : ".eq() - get a DOM element at a specific index",
+  "time" : {
+    "start" : 1608066195225,
+    "stop" : 1608066195465,
+    "duration" : 240
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7a606f4b28d3d62",
+  "name" : "cy.wait() - wait for a specific route",
+  "time" : {
+    "start" : 1608066228618,
+    "stop" : 1608066229946,
+    "duration" : 1328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6f32a05263b23cf",
+  "name" : ".parents() - get parent DOM elements from DOM elements",
+  "time" : {
+    "start" : 1608066197917,
+    "stop" : 1608066198214,
+    "duration" : 297
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd9cfce3559940d2",
+  "name" : "cy.contains() - query DOM elements with matching content",
+  "time" : {
+    "start" : 1608066177529,
+    "stop" : 1608066178047,
+    "duration" : 518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46e34a693c9f000c",
+  "name" : "cy.viewport() - set the viewport size and dimension",
+  "time" : {
+    "start" : 1608066214383,
+    "stop" : 1608066218184,
+    "duration" : 3801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "898833ac3c8fc9bf",
+  "name" : ".first() - get first DOM element",
+  "time" : {
+    "start" : 1608066196057,
+    "stop" : 1608066196274,
+    "duration" : 217
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7792f0f6f99d1eb",
+  "name" : ".should() - make an assertion about the current subject",
+  "time" : {
+    "start" : 1608066086992,
+    "stop" : 1608066088521,
+    "duration" : 1529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21393b6a0c0b1a7c",
+  "name" : ".and() - chain multiple assertions together",
+  "time" : {
+    "start" : 1608066088529,
+    "stop" : 1608066088979,
+    "duration" : 450
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "261599df7590e52",
+  "name" : ".children() - get child DOM elements",
+  "time" : {
+    "start" : 1608066194135,
+    "stop" : 1608066194741,
+    "duration" : 606
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7731ae73a5c64748",
+  "name" : "yields the original subject without return",
+  "time" : {
+    "start" : 1608066099990,
+    "stop" : 1608066100255,
+    "duration" : 265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26bb969b08f29ef3",
+  "name" : "Get current spec information",
+  "time" : {
+    "start" : 1608066116792,
+    "stop" : 1608066117097,
+    "duration" : 305
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3863c3f960b40de3",
+  "name" : ".type() - type into a DOM element",
+  "time" : {
+    "start" : 1608066054997,
+    "stop" : 1608066060387,
+    "duration" : 5390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18682e340e852dd7",
+  "name" : "retries the should callback until assertions pass",
+  "time" : {
+    "start" : 1608066090581,
+    "stop" : 1608066092310,
+    "duration" : 1729
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "435bb6ac7e1e8948",
+  "name" : "cy.clearCookie() - clear a browser cookie",
+  "time" : {
+    "start" : 1608066107080,
+    "stop" : 1608066107466,
+    "duration" : 386
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4b12b5c8167a2ab",
+  "name" : "Form Quero ser avisado - Sucesso",
+  "time" : {
+    "start" : 1608066006491,
+    "stop" : 1608066012498,
+    "duration" : 6007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7335b72c20663ff",
+  "name" : "Get current version of Cypress being run",
+  "time" : {
+    "start" : 1608066116506,
+    "stop" : 1608066116782,
+    "duration" : 276
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "540ddc019d410586",
+  "name" : "cy.wrap() - wrap an object",
+  "time" : {
+    "start" : 1608066144461,
+    "stop" : 1608066144824,
+    "duration" : 363
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58aadcce5e7d8296",
+  "name" : "Control what is printed to the Command Log",
+  "time" : {
+    "start" : 1608066115921,
+    "stop" : 1608066116199,
+    "duration" : 278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f66939ff60cc71d",
+  "name" : "cy.scrollTo() - scroll the window or element to a position",
+  "time" : {
+    "start" : 1608066071328,
+    "stop" : 1608066073772,
+    "duration" : 2444
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27f28bc2bd9117c9",
+  "name" : ".each() - iterate over an array of elements",
+  "time" : {
+    "start" : 1608066097668,
+    "stop" : 1608066098569,
+    "duration" : 901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "582b49051e2a5b2",
+  "name" : "cy.request() - verify response using BDD syntax",
+  "time" : {
+    "start" : 1608066163232,
+    "stop" : 1608066164427,
+    "duration" : 1195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62fa1b83a33f332e",
+  "name" : "cy.go() - go back or forward in the browser's history",
+  "time" : {
+    "start" : 1608066152411,
+    "stop" : 1608066154377,
+    "duration" : 1966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2eab78c887fa6421",
+  "name" : ".closest() - get closest ancestor DOM element",
+  "time" : {
+    "start" : 1608066194751,
+    "stop" : 1608066195213,
+    "duration" : 462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d632bceb5512cd5b",
+  "name" : "yields the value yielded by the last Cypress command inside",
+  "time" : {
+    "start" : 1608066100259,
+    "stop" : 1608066100480,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4a54faecb0e953d",
+  "name" : ".last() - get last DOM element",
+  "time" : {
+    "start" : 1608066196283,
+    "stop" : 1608066196508,
+    "duration" : 225
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bda3075eec284ce",
+  "name" : "cy.setCookie() - set a browser cookie",
+  "time" : {
+    "start" : 1608066106763,
+    "stop" : 1608066107075,
+    "duration" : 312
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63a81475ed03fe41",
+  "name" : ".clear() - clears an input or textarea element",
+  "time" : {
+    "start" : 1608066061611,
+    "stop" : 1608066062361,
+    "duration" : 750
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c9b28d1ac04a488",
+  "name" : "Login - Logout",
+  "time" : {
+    "start" : 1608066041065,
+    "stop" : 1608066049569,
+    "duration" : 8504
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83acee39cdf1895f",
+  "name" : "cy.get() - query DOM elements",
+  "time" : {
+    "start" : 1608066176499,
+    "stop" : 1608066177515,
+    "duration" : 1016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b751592361ed240e",
+  "name" : ".debug() - enable or disable debugging",
+  "time" : {
+    "start" : 1608066112696,
+    "stop" : 1608066113495,
+    "duration" : 799
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43906e6cc83df6b1",
+  "name" : ".within() - query DOM elements within a specific element",
+  "time" : {
+    "start" : 1608066178065,
+    "stop" : 1608066178318,
+    "duration" : 253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f770e46e4f4d38cc",
+  "name" : "cy.screenshot() - take a screenshot",
+  "time" : {
+    "start" : 1608066144833,
+    "stop" : 1608066147292,
+    "duration" : 2459
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c194820141b0a5bb",
+  "name" : "cy.stub() - create a stub and/or replace a function with stub",
+  "time" : {
+    "start" : 1608066187885,
+    "stop" : 1608066188284,
+    "duration" : 399
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9794defeb528670e",
+  "name" : ".dblclick() - double click on a DOM element",
+  "time" : {
+    "start" : 1608066066010,
+    "stop" : 1608066066490,
+    "duration" : 480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75430b209dd7b495",
+  "name" : "matches call arguments using Sinon matchers",
+  "time" : {
+    "start" : 1608066189143,
+    "stop" : 1608066189195,
+    "duration" : 52
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16114ecb3c4af83a",
+  "name" : "cy.spy() retries until assertions pass",
+  "time" : {
+    "start" : 1608066185313,
+    "stop" : 1608066187870,
+    "duration" : 2557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5431e0477d922b8b",
+  "name" : "Cypress.$ - call a jQuery method",
+  "time" : {
+    "start" : 1608066206072,
+    "stop" : 1608066206428,
+    "duration" : 356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbb3fbd778bb3936",
+  "name" : ".its() - get properties on the current subject",
+  "time" : {
+    "start" : 1608066098573,
+    "stop" : 1608066098977,
+    "duration" : 404
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "525559879ae5db4a",
+  "name" : ".blur() - blur off a DOM element",
+  "time" : {
+    "start" : 1608066060977,
+    "stop" : 1608066061604,
+    "duration" : 627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fca6ae2473345d31",
+  "name" : ".defaults() - set defaults for all cookies",
+  "time" : {
+    "start" : 1608066114130,
+    "stop" : 1608066114469,
+    "duration" : 339
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71ab705415ab0447",
+  "name" : "cy.stub() matches depending on arguments",
+  "time" : {
+    "start" : 1608066189087,
+    "stop" : 1608066189133,
+    "duration" : 46
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e61405b57d668f4e",
+  "name" : ".select() - select an option in a <select> element",
+  "time" : {
+    "start" : 1608066069339,
+    "stop" : 1608066070598,
+    "duration" : 1259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2c818c544fcf796",
+  "name" : "cy.getCookie() - get a browser cookie",
+  "time" : {
+    "start" : 1608066105159,
+    "stop" : 1608066106308,
+    "duration" : 1149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d604fbce3455b008",
+  "name" : "cy.request() - make an XHR request",
+  "time" : {
+    "start" : 1608066161474,
+    "stop" : 1608066163206,
+    "duration" : 1732
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b0df4cf35d9a349",
+  "name" : "cy.root() - query the root DOM element",
+  "time" : {
+    "start" : 1608066178323,
+    "stop" : 1608066178557,
+    "duration" : 234
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec37c5ec0f35e666",
+  "name" : "Get underlying OS name",
+  "time" : {
+    "start" : 1608066116204,
+    "stop" : 1608066116492,
+    "duration" : 288
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d3fa5ee7c58cd25",
+  "name" : "cy.visit() - visit a remote url",
+  "time" : {
+    "start" : 1608066155543,
+    "stop" : 1608066156281,
+    "duration" : 738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4bfec2814ec93a4",
+  "name" : "cy.reload() - reload the page",
+  "time" : {
+    "start" : 1608066154388,
+    "stop" : 1608066155536,
+    "duration" : 1148
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f744fccaa4a98c3",
+  "name" : ".rightclick() - right click on a DOM element",
+  "time" : {
+    "start" : 1608066066496,
+    "stop" : 1608066066951,
+    "duration" : 455
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7cbcc8aecb2c6603",
+  "name" : "True é False",
+  "time" : {
+    "start" : 1608065985906,
+    "stop" : 1608065986387,
+    "duration" : 481
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0845fc2128e9a70",
+  "name" : "cy.getCookies() - get browser cookies",
+  "time" : {
+    "start" : 1608066106314,
+    "stop" : 1608066106751,
+    "duration" : 437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67b7baed3ebe0d5f",
+  "name" : ".preserveOnce() - preserve cookies by key",
+  "time" : {
+    "start" : 1608066113502,
+    "stop" : 1608066114126,
+    "duration" : 624
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3389ac8c2dfe7ce",
+  "name" : "invokes a callback function with the current subject",
+  "time" : {
+    "start" : 1608066099430,
+    "stop" : 1608066099708,
+    "duration" : 278
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d1bb30af976f481",
+  "name" : ".as() - alias a route for later use",
+  "time" : {
+    "start" : 1608066080433,
+    "stop" : 1608066081981,
+    "duration" : 1548
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "395e939d64a176be",
+  "name" : "cy.hash() - get the current URL hash",
+  "time" : {
+    "start" : 1608066135131,
+    "stop" : 1608066135951,
+    "duration" : 820
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bfd1d83d00a03e12",
+  "name" : ".prevUntil() - get all previous sibling DOM elements until el",
+  "time" : {
+    "start" : 1608066198935,
+    "stop" : 1608066199210,
+    "duration" : 275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ee742713d89596b",
+  "name" : "Cypress.moment() - format or parse dates using a moment method",
+  "time" : {
+    "start" : 1608066207567,
+    "stop" : 1608066208134,
+    "duration" : 567
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdc23899d2812558",
+  "name" : ".focus() - focus on a DOM element",
+  "time" : {
+    "start" : 1608066060418,
+    "stop" : 1608066060962,
+    "duration" : 544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "58385b268d674f23",
+  "name" : "Criar conta Ajuda",
+  "time" : {
+    "start" : 1608066026894,
+    "stop" : 1608066035510,
+    "duration" : 8616
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e5afe8441d64457",
+  "name" : "Cypress.minimatch - test out glob patterns against strings",
+  "time" : {
+    "start" : 1608066207184,
+    "stop" : 1608066207554,
+    "duration" : 370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1aca90d1e80ae4b",
+  "name" : "cy.clearLocalStorage() - clear all data in local storage",
+  "time" : {
+    "start" : 1608066129400,
+    "stop" : 1608066130701,
+    "duration" : 1301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8358cc9fbd240a9",
+  "name" : ".add() - create a custom command",
+  "time" : {
+    "start" : 1608066112166,
+    "stop" : 1608066112691,
+    "duration" : 525
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81d5b4a5896a9244",
+  "name" : "cy.clearCookies() - clear browser cookies",
+  "time" : {
+    "start" : 1608066107476,
+    "stop" : 1608066107865,
+    "duration" : 389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b0cd8775145520f",
+  "name" : "cy.fixture() or require - load a fixture",
+  "time" : {
+    "start" : 1608066123412,
+    "stop" : 1608066123653,
+    "duration" : 241
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84c2aa5069909fed",
+  "name" : "Cypress.Blob - blob utilities and base64 string conversion",
+  "time" : {
+    "start" : 1608066206437,
+    "stop" : 1608066207178,
+    "duration" : 741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3b4419fb37a6629",
+  "name" : "matches unknown text between two elements",
+  "time" : {
+    "start" : 1608066090005,
+    "stop" : 1608066090284,
+    "duration" : 279
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9712cf6639dc3b8c",
+  "name" : ".prevAll() - get all previous sibling DOM elements",
+  "time" : {
+    "start" : 1608066198702,
+    "stop" : 1608066198921,
+    "duration" : 219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c9cb48341414550",
+  "name" : "cy.request() - pass result to the second request",
+  "time" : {
+    "start" : 1608066166288,
+    "stop" : 1608066167339,
+    "duration" : 1051
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1eadc6e24e45fcae",
+  "name" : "can throw any error",
+  "time" : {
+    "start" : 1608066089746,
+    "stop" : 1608066090001,
+    "duration" : 255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f16e3edd97455eb3",
+  "name" : "Cypress.Promise - instantiate a bluebird promise",
+  "time" : {
+    "start" : 1608066208149,
+    "stop" : 1608066209368,
+    "duration" : 1219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b38854cf33427f7",
+  "name" : "cy.focused() - get the DOM element that has focus",
+  "time" : {
+    "start" : 1608066143444,
+    "stop" : 1608066144453,
+    "duration" : 1009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f268483dc179d5a",
+  "name" : "False é False",
+  "time" : {
+    "start" : 1608065986451,
+    "stop" : 1608065986469,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7a451913dc5393d",
+  "name" : "yields the returned value to the next command",
+  "time" : {
+    "start" : 1608066099713,
+    "stop" : 1608066099984,
+    "duration" : 271
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cc10be3315c2b88a",
+  "name" : ".scrollIntoView() - scroll an element into view",
+  "time" : {
+    "start" : 1608066070611,
+    "stop" : 1608066070992,
+    "duration" : 381
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7bfed3467b13377",
+  "name" : "best practices - selecting elements",
+  "time" : {
+    "start" : 1608066178562,
+    "stop" : 1608066179424,
+    "duration" : 862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "131dff7e06117180",
+  "name" : ".isHidden() - determine if a DOM element is hidden",
+  "time" : {
+    "start" : 1608066115291,
+    "stop" : 1608066115545,
+    "duration" : 254
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "faf8dd25c59e54f",
+  "name" : ".as() - alias a DOM element for later use",
+  "time" : {
+    "start" : 1608066079099,
+    "stop" : 1608066080425,
+    "duration" : 1326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4027d777482d6f37",
+  "name" : "cy.fixture() - load a fixture",
+  "time" : {
+    "start" : 1608066121950,
+    "stop" : 1608066123402,
+    "duration" : 1452
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e71aec7f698c2589",
+  "name" : ".parent() - get parent DOM element from DOM elements",
+  "time" : {
+    "start" : 1608066197654,
+    "stop" : 1608066197906,
+    "duration" : 252
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8354e5fa0288004b",
+  "name" : "cy.writeFile() - write to a file",
+  "time" : {
+    "start" : 1608066123905,
+    "stop" : 1608066124714,
+    "duration" : 809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd2e50c860575a38",
+  "name" : "cy.readFile() - read file contents",
+  "time" : {
+    "start" : 1608066123666,
+    "stop" : 1608066123901,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "504d1940b036fe0a",
+  "name" : "pass your own callback function to should()",
+  "time" : {
+    "start" : 1608066089246,
+    "stop" : 1608066089481,
+    "duration" : 235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d6bdd8c24dc6fbe",
+  "name" : "cy.request() - save response in the shared test context",
+  "time" : {
+    "start" : 1608066167348,
+    "stop" : 1608066168332,
+    "duration" : 984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "281e3f940e71249a",
+  "name" : ".find() - get descendant DOM elements of the selector",
+  "time" : {
+    "start" : 1608066195762,
+    "stop" : 1608066196047,
+    "duration" : 285
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8db206430b7e7e7f",
+  "name" : ".uncheck() - uncheck a checkbox element",
+  "time" : {
+    "start" : 1608066068174,
+    "stop" : 1608066069328,
+    "duration" : 1154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e500d3d6a5faf645",
+  "name" : ".not() - remove DOM elements from set of DOM elements",
+  "time" : {
+    "start" : 1608066197418,
+    "stop" : 1608066197639,
+    "duration" : 221
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "39c4da2d26a520a4",
+  "name" : "Cypress._ - call a lodash method",
+  "time" : {
+    "start" : 1608066204586,
+    "stop" : 1608066206065,
+    "duration" : 1479
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5769d27ff333929d",
+  "name" : ".trigger() - trigger an event on a DOM element",
+  "time" : {
+    "start" : 1608066071010,
+    "stop" : 1608066071320,
+    "duration" : 310
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b31244695215b10",
+  "name" : ".submit() - submit a form",
+  "time" : {
+    "start" : 1608066062371,
+    "stop" : 1608066063014,
+    "duration" : 643
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdf2e5aee45fb63a",
+  "name" : ".invoke() - invoke a function on the current subject",
+  "time" : {
+    "start" : 1608066098986,
+    "stop" : 1608066099208,
+    "duration" : 222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9f0a32636d57a8c9",
+  "name" : ".spread() - spread an array as individual args to callback function",
+  "time" : {
+    "start" : 1608066099224,
+    "stop" : 1608066099421,
+    "duration" : 197
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d47ea1652461218e",
+  "name" : "cy.intercept() - route responses to matching requests",
+  "time" : {
+    "start" : 1608066168338,
+    "stop" : 1608066170202,
+    "duration" : 1864
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "687aed64a7516e69",
+  "name" : ".end() - end the command chain",
+  "time" : {
+    "start" : 1608066140986,
+    "stop" : 1608066141942,
+    "duration" : 956
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3a199fbc7bc866b",
+  "name" : "expect - make an assertion about a specified subject",
+  "time" : {
+    "start" : 1608066088988,
+    "stop" : 1608066089237,
+    "duration" : 249
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

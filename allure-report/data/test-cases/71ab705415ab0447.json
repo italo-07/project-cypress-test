@@ -1,0 +1,35 @@
+{
+  "uid" : "71ab705415ab0447",
+  "name" : "cy.stub() matches depending on arguments",
+  "fullName" : "cy.stub() matches depending on arguments",
+  "historyId" : "0cb8918d485b88ea5e9cfa70f71e851a",
+  "time" : {
+    "start" : 1608066189087,
+    "stop" : 1608066189133,
+    "duration" : 46
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Spies, Stubs, and Clock"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "71ab705415ab0447.json",
+  "parameterValues" : [ ]
+}

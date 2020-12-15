@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected true to equal false",
+      "children" : [ {
+        "name" : "True é False",
+        "uid" : "7cbcc8aecb2c6603",
+        "parentUid" : "a1d6c11fcfa5a5b3a8ae0cbe7a494730",
+        "status" : "failed",
+        "time" : {
+          "start" : 1608065985906,
+          "stop" : 1608065986387,
+          "duration" : 481
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a1d6c11fcfa5a5b3a8ae0cbe7a494730"
+    }, {
+      "name" : "Timed out retrying: Expected to find content: 'Olá,' but never did.",
+      "children" : [ {
+        "name" : "Criar conta Ajuda",
+        "uid" : "58385b268d674f23",
+        "parentUid" : "89a070d03db5446f0e8f91fabe2c28e9",
+        "status" : "failed",
+        "time" : {
+          "start" : 1608066026894,
+          "stop" : 1608066035510,
+          "duration" : 8616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89a070d03db5446f0e8f91fabe2c28e9"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}
