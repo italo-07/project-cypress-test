@@ -236,7 +236,7 @@ describe('Login test cases', function() {
 
     });
 
-    it.only('Login - Logout', function () {
+    it('Login - Logout', function () {
         cy.viewport(320, 568);
         cy.visit('https://web.homolog.meutudo.app/intro');
         cy.contains('Bem vindo');
