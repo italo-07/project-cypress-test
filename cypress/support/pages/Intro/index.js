@@ -9,19 +9,11 @@ const element = require('./elements').ELEMENTS;
 
 class Intro {
 
-    deviceViewIphone5_SE(){
-        cy.viewport(320, 568);
-    }
-
     acessarIntro(){
-        cy.visit('https://web.homolog.meutudo.app/intro');
+        cy.visit(element.urlIntro);
     }
 
     verifyElementsIntro(){
-        //cy.get(':nth-child(1) > .touchable_container___tPxA5 > .false > .button_container___Tboql').should('have.value', 'Entrar');
-        
-        //cy.get(':nth-child(2) > .touchable_container___tPxA5 > .false > .button_container___Tboql').should('have.value', 'Cadastrar');
-
         cy.get(element.msgWelcome).contains('Bem vindo ao');
 
         cy.get(element.name).contains('MEU TUDO!');
@@ -31,6 +23,13 @@ class Intro {
         cy.get(element.btnCadastrar).contains('Cadastrar');
     }
 
+    btnEntrar() {
+        cy.get(element.btnEntrar).contains('Entrar').click();
+    }
+
+    btnCadastrar() {
+        cy.get(element.btnCadastrar).contains('Cadastrar').click();
+    }
 
 }
 
